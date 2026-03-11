@@ -1,0 +1,317 @@
+{
+    "acetaminophen": {
+        "display_name": "Acetaminophen (Tylenol)",
+        "quantity": 50,
+        "unit": "tablets",
+        "strength": "500mg",
+        "slot": "A1"
+    },
+    "ibuprofen": {
+        "display_name": "Ibuprofen (Advil)",
+        "quantity": 40,
+        "unit": "tablets",
+        "strength": "400mg",
+        "slot": "A2"
+    },
+    "amoxicillin": {
+        "display_name": "Amoxicillin",
+        "quantity": 30,
+        "unit": "capsules",
+        "strength": "500mg",
+        "slot": "A3"
+    },
+    "azithromycin": {
+        "display_name": "Azithromycin (Zithromax)",
+        "quantity": 20,
+        "unit": "tablets",
+        "strength": "250mg",
+        "slot": "A4"
+    },
+    "cetirizine": {
+        "display_name": "Cetirizine (Zyrtec)",
+        "quantity": 45,
+        "unit": "tablets",
+        "strength": "10mg",
+        "slot": "A5"
+    },
+    "omeprazole": {
+        "display_name": "Omeprazole (Prilosec)",
+        "quantity": 35,
+        "unit": "capsules",
+        "strength": "20mg",
+        "slot": "B1"
+    },
+    "metformin": {
+        "display_name": "Metformin (Glucophage)",
+        "quantity": 25,
+        "unit": "tablets",
+        "strength": "500mg",
+        "slot": "B2"
+    },
+    "lisinopril": {
+        "display_name": "Lisinopril (Zestril)",
+        "quantity": 30,
+        "unit": "tablets",
+        "strength": "10mg",
+        "slot": "B3"
+    },
+    "atorvastatin": {
+        "display_name": "Atorvastatin (Lipitor)",
+        "quantity": 28,
+        "unit": "tablets",
+        "strength": "20mg",
+        "slot": "B4"
+    },
+    "amlodipine": {
+        "display_name": "Amlodipine (Norvasc)",
+        "quantity": 30,
+        "unit": "tablets",
+        "strength": "5mg",
+        "slot": "B5"
+    },
+    "metoprolol": {
+        "display_name": "Metoprolol (Lopressor)",
+        "quantity": 25,
+        "unit": "tablets",
+        "strength": "50mg",
+        "slot": "C1"
+    },
+    "losartan": {
+        "display_name": "Losartan (Cozaar)",
+        "quantity": 22,
+        "unit": "tablets",
+        "strength": "50mg",
+        "slot": "C2"
+    },
+    "levothyroxine": {
+        "display_name": "Levothyroxine (Synthroid)",
+        "quantity": 30,
+        "unit": "tablets",
+        "strength": "50mcg",
+        "slot": "C3"
+    },
+    "sertraline": {
+        "display_name": "Sertraline (Zoloft)",
+        "quantity": 20,
+        "unit": "tablets",
+        "strength": "50mg",
+        "slot": "C4"
+    },
+    "fluoxetine": {
+        "display_name": "Fluoxetine (Prozac)",
+        "quantity": 18,
+        "unit": "capsules",
+        "strength": "20mg",
+        "slot": "C5"
+    },
+    "gabapentin": {
+        "display_name": "Gabapentin (Neurontin)",
+        "quantity": 0,
+        "unit": "capsules",
+        "strength": "300mg",
+        "slot": "D1"
+    },
+    "prednisone": {
+        "display_name": "Prednisone",
+        "quantity": 40,
+        "unit": "tablets",
+        "strength": "10mg",
+        "slot": "D2"
+    },
+    "albuterol": {
+        "display_name": "Albuterol (Ventolin)",
+        "quantity": 12,
+        "unit": "inhalers",
+        "strength": "90mcg",
+        "slot": "D3"
+    },
+    "montelukast": {
+        "display_name": "Montelukast (Singulair)",
+        "quantity": 25,
+        "unit": "tablets",
+        "strength": "10mg",
+        "slot": "D4"
+    },
+    "pantoprazole": {
+        "display_name": "Pantoprazole (Protonix)",
+        "quantity": 30,
+        "unit": "tablets",
+        "strength": "40mg",
+        "slot": "D5"
+    },
+    "hydrochlorothiazide": {
+        "display_name": "Hydrochlorothiazide",
+        "quantity": 20,
+        "unit": "tablets",
+        "strength": "25mg",
+        "slot": "E1"
+    },
+    "furosemide": {
+        "display_name": "Furosemide (Lasix)",
+        "quantity": 15,
+        "unit": "tablets",
+        "strength": "40mg",
+        "slot": "E2"
+    },
+    "clopidogrel": {
+        "display_name": "Clopidogrel (Plavix)",
+        "quantity": 0,
+        "unit": "tablets",
+        "strength": "75mg",
+        "slot": "E3"
+    },
+    "warfarin": {
+        "display_name": "Warfarin (Coumadin)",
+        "quantity": 18,
+        "unit": "tablets",
+        "strength": "5mg",
+        "slot": "E4"
+    },
+    "cephalexin": {
+        "display_name": "Cephalexin (Keflex)",
+        "quantity": 24,
+        "unit": "capsules",
+        "strength": "500mg",
+        "slot": "E5"
+    },
+    "ciprofloxacin": {
+        "display_name": "Ciprofloxacin (Cipro)",
+        "quantity": 20,
+        "unit": "tablets",
+        "strength": "500mg",
+        "slot": "F1"
+    },
+    "doxycycline": {
+        "display_name": "Doxycycline (Vibramycin)",
+        "quantity": 0,
+        "unit": "capsules",
+        "strength": "100mg",
+        "slot": "F2"
+    },
+    "metronidazole": {
+        "display_name": "Metronidazole (Flagyl)",
+        "quantity": 22,
+        "unit": "tablets",
+        "strength": "500mg",
+        "slot": "F3"
+    },
+    "naproxen": {
+        "display_name": "Naproxen (Aleve)",
+        "quantity": 35,
+        "unit": "tablets",
+        "strength": "500mg",
+        "slot": "F4"
+    },
+    "diclofenac": {
+        "display_name": "Diclofenac (Voltaren)",
+        "quantity": 28,
+        "unit": "tablets",
+        "strength": "50mg",
+        "slot": "F5"
+    },
+    "loratadine": {
+        "display_name": "Loratadine (Claritin)",
+        "quantity": 40,
+        "unit": "tablets",
+        "strength": "10mg",
+        "slot": "G1"
+    },
+    "diphenhydramine": {
+        "display_name": "Diphenhydramine (Benadryl)",
+        "quantity": 50,
+        "unit": "tablets",
+        "strength": "25mg",
+        "slot": "G2"
+    },
+    "ondansetron": {
+        "display_name": "Ondansetron (Zofran)",
+        "quantity": 15,
+        "unit": "tablets",
+        "strength": "4mg",
+        "slot": "G3"
+    },
+    "famotidine": {
+        "display_name": "Famotidine (Pepcid)",
+        "quantity": 30,
+        "unit": "tablets",
+        "strength": "20mg",
+        "slot": "G4"
+    },
+    "escitalopram": {
+        "display_name": "Escitalopram (Lexapro)",
+        "quantity": 20,
+        "unit": "tablets",
+        "strength": "10mg",
+        "slot": "G5"
+    },
+    "tramadol": {
+        "display_name": "Tramadol (Ultram)",
+        "quantity": 0,
+        "unit": "tablets",
+        "strength": "50mg",
+        "slot": "H1"
+    },
+    "cyclobenzaprine": {
+        "display_name": "Cyclobenzaprine (Flexeril)",
+        "quantity": 18,
+        "unit": "tablets",
+        "strength": "10mg",
+        "slot": "H2"
+    },
+    "clonazepam": {
+        "display_name": "Clonazepam (Klonopin)",
+        "quantity": 10,
+        "unit": "tablets",
+        "strength": "0.5mg",
+        "slot": "H3"
+    },
+    "folic acid": {
+        "display_name": "Folic Acid",
+        "quantity": 60,
+        "unit": "tablets",
+        "strength": "1mg",
+        "slot": "H4"
+    },
+    "vitamin d": {
+        "display_name": "Vitamin D (Cholecalciferol)",
+        "quantity": 55,
+        "unit": "capsules",
+        "strength": "1000IU",
+        "slot": "H5"
+    },
+    "ferrous sulfate": {
+        "display_name": "Ferrous Sulfate",
+        "quantity": 40,
+        "unit": "tablets",
+        "strength": "325mg",
+        "slot": "I1"
+    },
+    "fluconazole": {
+        "display_name": "Fluconazole (Diflucan)",
+        "quantity": 10,
+        "unit": "tablets",
+        "strength": "150mg",
+        "slot": "I2"
+    },
+    "spironolactone": {
+        "display_name": "Spironolactone (Aldactone)",
+        "quantity": 15,
+        "unit": "tablets",
+        "strength": "25mg",
+        "slot": "I3"
+    },
+    "rosuvastatin": {
+        "display_name": "Rosuvastatin (Crestor)",
+        "quantity": 22,
+        "unit": "tablets",
+        "strength": "10mg",
+        "slot": "I4"
+    },
+    "pregabalin": {
+        "display_name": "Pregabalin (Lyrica)",
+        "quantity": 0,
+        "unit": "capsules",
+        "strength": "75mg",
+        "slot": "I5"
+    }
+}
